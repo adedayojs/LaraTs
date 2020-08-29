@@ -20,3 +20,17 @@ coverage
 *.log
 
 cypress/videos
+
+# Editor files
+.vscode
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+# Yarn Integrity file
+.yarn-integrity
