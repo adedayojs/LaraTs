@@ -1,6 +1,6 @@
 # LaraTs
 
-## NodeJs Implementation of laravel
+## NodeJs Fullstack Framework
 
 Run the server with
 
